@@ -15,7 +15,7 @@
 -- There is more than one way to build and consume APIs. Some architecture types you may come across are:
 
     REST (Representational State Transfer):
-        Some traits of REST APIs include not storing session state between requests, the ability to cache, and the ability to send and receive various data types.
+        REST APIs are designed to make server-side data readily available by representing it in simple formats such as JSON and XML. The acronym stands for   REpresentational State Transfer.Some traits of REST APIs include not storing session state between requests, the ability to cache, and the ability to send and receive various data types.
     GraphQL
     WebSockets
     webhooks
