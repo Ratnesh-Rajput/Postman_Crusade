@@ -32,3 +32,11 @@
     
  ### Postman agent
    <p> The Postman agent is a micro-application that runs locally on your desktop and acts as your agent for making API calls on your behalf. To overcome limits in the browser, the Postman web interface will now route  API calls to the local agent, and the agent will make API requests locally on your behalf, using your local profile, configuration, and network to make each request and pass the response back to the web interface. </p>
+
+-----------------------------------------------------------------------------------------------
+Notes Flow:
+1. Introduction(Readme.md)
+2. Request_Response.md
+3. Variables.md
+4. Query-and-Path-parameters
+5. Sending_Data.md
