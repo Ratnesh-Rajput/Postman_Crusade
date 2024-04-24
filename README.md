@@ -38,5 +38,5 @@ Notes Flow:
 1. Introduction(Readme.md)
 2. Request_Response.md
 3. Variables.md
-4. Query-and-Path-parameters
+4. Query-and-Path-parameters.md
 5. Sending_Data.md
