@@ -6,3 +6,5 @@ You will need to send body data with requests whenever you need to add or update
 
 #### Headers
 Headers are how we can add metadata about our requests, such as authorization information or specify the data type we want to receive in a response. This is different than the actual payload data we send in the body of a request, such as our new book information.
+
+* The Postman Auth helper can help you add authorization at the request, folder or collection level, so api-key doesn't need to be specified in the header(hard coded).
